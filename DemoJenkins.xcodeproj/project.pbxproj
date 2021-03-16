@@ -15,6 +15,7 @@
 		1EB9B52426014FE40019CD44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EB9B52226014FE40019CD44 /* LaunchScreen.storyboard */; };
 		1EB9B52F26014FE40019CD44 /* DemoJenkinsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EB9B52E26014FE40019CD44 /* DemoJenkinsTests.swift */; };
 		1EB9B53A26014FE40019CD44 /* DemoJenkinsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EB9B53926014FE40019CD44 /* DemoJenkinsUITests.swift */; };
+		1EB9B54B260151DD0019CD44 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EB9B54A260151DD0019CD44 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1EB9B53526014FE40019CD44 /* DemoJenkinsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoJenkinsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EB9B53926014FE40019CD44 /* DemoJenkinsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoJenkinsUITests.swift; sourceTree = "<group>"; };
 		1EB9B53B26014FE50019CD44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EB9B54A260151DD0019CD44 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				1EB9B52026014FE40019CD44 /* Assets.xcassets */,
 				1EB9B52226014FE40019CD44 /* LaunchScreen.storyboard */,
 				1EB9B52526014FE40019CD44 /* Info.plist */,
+				1EB9B54A260151DD0019CD44 /* ViewController2.swift */,
 			);
 			path = DemoJenkins;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1EB9B51C26014FE10019CD44 /* ViewController.swift in Sources */,
+				1EB9B54B260151DD0019CD44 /* ViewController2.swift in Sources */,
 				1EB9B51826014FE10019CD44 /* AppDelegate.swift in Sources */,
 				1EB9B51A26014FE10019CD44 /* SceneDelegate.swift in Sources */,
 			);
